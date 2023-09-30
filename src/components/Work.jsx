@@ -2,28 +2,34 @@ import React from "react";
 import WorkItem from "./WorkItem";
 const data = [
   {
-    year: 2020,
-    title: "Content Creater",
-    duration: "3 years",
-    details: "nal grandfather). Siraj-ud-Daulah had become the Nawab of Bengal the year before, and he had ordered the English to stop the extension of their fortification. Robert Clive bribed Mir Jafar, the commander-in-chief of the Nawab's army, and also promised to make him Nawab of Bengal. Clive defeated Siraj-ud-Daulah at Plassey in 1757 and captured Calcutta.[2]",
+    year: 2023,
+    title: "ML Engineer at Samsung Reseach and Development",
+    duration: "6 Months",
+    details:
+      "We curated a diverse, meticulously labeled dataset spanning various age groups and genders, with a primary focus on individuals aged 55 and older. Using this dataset, we developed a high-performing machine learning algorithm and neural network architecture to predict a wide array of walking parameters. Rigorous benchmarking against leading methods confirmed our project's superior performance. Furthermore, our solution was successfully deployed on mobile devices for real-time assessment and practical use, advancing the field of mobility analysis.",
+  },
+  {
+    year: 2023,
+    title: "Project: OpenSeadragon - Open-Source Contribution",
+    duration: "2 Months",
+    details:
+      "I have been actively contributing to OpenSeadragon, an open-source project that provides a versatile and high-performance image viewer for the web. My contributions include [briefly describe the enhancements, bug fixes, or features you've worked on], aimed at improving user experience and functionality. I continue to collaborate with the OpenSeadragon community to enhance this valuable tool for web developers and researchers. ",
   },
   {
     year: 2020,
-    title: "Content Creater",
-    duration: "3 years",
-    details: "lorem nal grandfather). Siraj-ud-Daulah had become the Nawab of Bengal the year before, and he had ordered the English to stop the extension of their fortification. Robert Clive bribed Mir Jafar, the commander-in-chief of the Nawab's army, and also promised to make him Nawab of Bengal. Clive defeated Siraj-ud-Daulah at Plassey in 1757 and captured Calcutta.[2]",
+    title: "Licenses & certifications",
+    duration: "",
+    details:
+      "AWS Academy Graduate,AWS Academy Cloud Operations ,Oracle Database Certifications ,Introduction to Self Driving Cars , Android Development ,Matlab Machine Learning ",
   },
   {
     year: 2020,
-    title: "Content Creater",
-    duration: "3 years",
-    details: "lorem nal grandfather). Siraj-ud-Daulah had become the Nawab of Bengal the year before, and he had ordered the English to stop the extension of their fortification. Robert Clive bribed Mir Jafar, the commander-in-chief of the Nawab's army, and also promised to make him Nawab of Bengal. Clive defeated Siraj-ud-Daulah at Plassey in 1757 and captured Calcutta.[2]",
-  },
-  {
-    year: 2020,
-    title: "Content Creater",
-    duration: "3 years",
-    details: "lorem nal grandfather). Siraj-ud-Daulah had become the Nawab of Bengal the year before, and he had ordered the English to stop the extension of their fortification. Robert Clive bribed Mir Jafar, the commander-in-chief of the Nawab's army, and also promised to make him Nawab of Bengal. Clive defeated Siraj-ud-Daulah at Plassey in 1757 and captured Calcutta.[2]",
+    title: "Education",
+    duration: "4 years",
+    details: `SRM Institute of Science and Technology - Bachelors in Computer Science and Technology
+CGPA: 9.49
+Dr. Virendra Swarup Education Centre - XII ICSE board
+Percentage: 91%`,
   },
 ];
 function Work() {
